@@ -50,7 +50,9 @@ pip install -r requirements.txt
 
 ### 3) For Linux
 export OPENAI_API_KEY="**your_api_key**"
-OR
+
+**OR**
+
 ### 4) Windows (PowerShell)
 setx OPENAI_API_KEY "**your_api_key**"
 
