@@ -15,7 +15,7 @@ An AI-powered web application that converts natural language into Cisco IOS CLI 
 
 ## 🏗️ Architecture Diagram
 
-![Architecture](architecture-diagram.png)
+[Architecture Diagram](https://github.com/Gudu435/ai-network-config-generator/blob/main/architecture-diagram.png.png)
 
 ---
 
@@ -42,16 +42,17 @@ An AI-powered web application that converts natural language into Cisco IOS CLI 
 ```bash
 git clone https://github.com/Gudu435/ai-network-config-generator.git
 cd ai-network-config-generator
+```
 
 ### 2) Install dependencies
 
 pip install -r requirements.txt
 
-3) For Linux
-export OPENAI_API_KEY="your_api_key"
+### 3) For Linux
+export OPENAI_API_KEY="**your_api_key**"
 OR
-4) Windows (PowerShell)
-setx OPENAI_API_KEY "your_api_key"
+### 4) Windows (PowerShell)
+setx OPENAI_API_KEY "**your_api_key**"
 
 5) ▶️ Run Application
 python3 app.py
