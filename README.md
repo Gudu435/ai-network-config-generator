@@ -36,9 +36,7 @@ If Not installed
 	```winget install Python.Python.3
 	python --version
 	pip --version
-```
 ---
-
 ## 📦 Installation
 
 ### 1) Clone the repository
