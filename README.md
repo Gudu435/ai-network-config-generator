@@ -32,7 +32,11 @@ An AI-powered web application that converts natural language into Cisco IOS CLI 
 ## ⚙️ Prerequisites
 
 - Python 3 installed
-
+If Not installed
+	```winget install Python.Python.3
+	python --version
+	pip --version
+```
 ---
 
 ## 📦 Installation
