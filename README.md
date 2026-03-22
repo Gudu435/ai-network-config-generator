@@ -46,15 +46,15 @@ cd ai-network-config-generator
 
 ### 2) Install dependencies
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ### 3) For Linux
-export OPENAI_API_KEY="**your_api_key**"
+``` export OPENAI_API_KEY="your_api_key" ```
 
 **OR**
 
 ### 4) Windows (PowerShell)
-setx OPENAI_API_KEY "**your_api_key**"
+```setx OPENAI_API_KEY "your_api_key" ```
 
 ### 5) ▶️ Run Application
-python3 app.py
+```python3 app.py```
