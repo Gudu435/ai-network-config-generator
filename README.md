@@ -54,5 +54,5 @@ OR
 ### 4) Windows (PowerShell)
 setx OPENAI_API_KEY "**your_api_key**"
 
-5) ▶️ Run Application
+### 5) ▶️ Run Application
 python3 app.py
